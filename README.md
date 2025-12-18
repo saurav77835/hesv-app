@@ -22,8 +22,8 @@ A web-based application that allows users to draw mathematical equations by hand
 
 ## Live Demo
 
-- **Polynomial Solver**: [https://sagyam.github.io/hesv-app](https://sagyam.github.io/hesv-app)
-- **Linear Solver**: [https://sagyam.github.io/hesv-app/linear](https://sagyam.github.io/hesv-app/linear)
+- **Polynomial Solver**: [https://saurav77835.github.io/hesv-app](https://saurav77835.github.io/hesv-app)
+- **Linear Solver**: [https://saurav77835.github.io/hesv-app/linear](https://saurav77835.github.io/hesv-app/linear)
 
 ## Screenshots
 
@@ -130,7 +130,7 @@ The application uses the following backend endpoints:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Sagyam/hesv-app.git
+git clone https://github.com/saurav77835/hesv-app.git
 cd hesv-app
 ```
 
@@ -195,12 +195,6 @@ php -S localhost:8000
 - Safari
 - Edge
 - Opera
-
-## Author
-
-**Sagyam Thapa**
-- GitHub: [@Sagyam](https://github.com/Sagyam)
-- Website: [sagyamthapa.me](https://www.sagyamthapa.me)
 
 ## License
 
